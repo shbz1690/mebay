@@ -1,0 +1,22 @@
+<html>
+<head>
+<title><%= @ad.name %></title>
+</head>
+<body>
+<p>
+<b>Name:</b>
+</p>
+<p>
+<b>Description:</p>
+</p>
+<p>
+<b>Price:</p>
+</p>
+<p>
+<b>Seller Id:</p>
+</p>
+<p>
+<b>Email:</p>
+</p>
+</body>
+</html>
